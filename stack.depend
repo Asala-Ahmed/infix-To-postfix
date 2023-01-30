@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619729972 source:c:\users\asala\onedrive\desktop\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
